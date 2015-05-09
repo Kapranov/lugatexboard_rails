@@ -10,8 +10,11 @@ gem 'coffee-rails',           '~> 4.1.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder',               '~> 2.2.13'
+gem 'binding_of_caller',      '~> 0.7.3.pre1'
 gem 'redis-rails',            '~> 4.0.0'
 gem 'dashing-rails',          '~> 2.4.3'
+# gem 'sprockets-rails',      '~> 2.3.0'
+gem 'sprockets-rails',        '2.2.4'
 gem 'puma',                   '~> 2.11.2'
 
 group :development, :test do
