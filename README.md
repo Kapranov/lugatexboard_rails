@@ -8,4 +8,4 @@ Check out http://212.26.132.49:2272 live Demo
 
 ![lugatexboard](/lugatexboard.jpg "Rails App")
 
-#### 2 may 2015 Oleg G.Kapranov
+#### 9 May 2015 Oleg G.Kapranov
